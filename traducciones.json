@@ -84,7 +84,9 @@
         "o_a_ar_s": "Video multipantalla en 360º con la clarinetista Alba Francés Martínez. En youtube se puede ver de forma interactiva.<br></br>Arreglo y edición de audio y video.",
         "o_a_jg_s": "Video multipantalla con la Jove Big Band de Sedajazz. Además, participo como vibrafonista.<br></br>Edición de audio y vídeo.",
         "o_a_t_s": "Video multipantalla con el aula de percusión del CSMV (Conservatorio Superior de Música de Valencia) representando una obra de M. Udow. Además, participo como percusionista.<br></br>Edición de audio y vídeo.",
-        "o_a_sa_s": "Video multipantalla con la Jove Big Band de Sedajazz de un tema de Fco. Blanco \"Latino\". Además, participo como vibrafonista.<br></br>Edición de audio y vídeo."
+        "o_a_sa_s": "Video multipantalla con la Jove Big Band de Sedajazz de un tema de Fco. Blanco \"Latino\". Además, participo como vibrafonista.<br></br>Edición de audio y vídeo.",
+        "form-success": "¡Gracias! Se ha enviado el mensaje correctamente.",
+        "form-error": "¡Ups!, algo ha ido mal enviando el formulario"
     },
     "english": {
         "abrir": "OPEN",
@@ -170,6 +172,8 @@
         "o_a_ar_s": "360º multiscreen video with clarinetist Alba Francés Martínez. On YouTube, it can be viewed interactively.<br></br>Arrangement and editing of audio and video.",
         "o_a_jg_s": "Multiscreen video with the Jove Big Band from Sedajazz. Additionally, I participate as a vibraphonist.<br></br>Audio and video editing.",
         "o_a_t_s": "Multiscreen video with the percussion classroom of the CSMV (Valencia Higher Conservatory of Music) representing a work by M. Udow. Additionally, I participate as a percussionist.<br></br>Audio and video editing.",
-        "o_a_sa_s": "Multiscreen video with the Jove Big Band from Sedajazz of a piece by Fco. Blanco \"Latino\". Additionally, I participate as a vibraphonist.<br></br>Audio and video editing."
+        "o_a_sa_s": "Multiscreen video with the Jove Big Band from Sedajazz of a piece by Fco. Blanco \"Latino\". Additionally, I participate as a vibraphonist.<br></br>Audio and video editing.",
+        "form-success": "Thank you! Your submission has been received!",
+        "form-error": "Oops! Something went wrong while submitting the form."
     }
 }
