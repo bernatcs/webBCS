@@ -90,7 +90,8 @@
         "form-name": "Nombre",
         "form-email": "Correo electrónico",
         "form-button": "Enviar",
-        "contactoeinfo": "Contacto e información"
+        "contactoeinfo": "Contacto e información",
+        "form-message": "Mensaje"
     },
     "english": {
         "abrir": "OPEN",
@@ -182,6 +183,7 @@
         "form-name": "Name",
         "form-email": "Email Address",
         "form-button": "Submit",
-        "contactoeinfo": "Contact and information"
+        "contactoeinfo": "Contact and information",
+        "form-message": "Message"
     }
 }
