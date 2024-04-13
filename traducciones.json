@@ -91,7 +91,8 @@
         "form-email": "Correo electrónico",
         "form-button": "Enviar",
         "contactoeinfo": "Contacto e información",
-        "form-message": "Mensaje"
+        "form-message": "Mensaje",
+        "articulospubli": "Artículos publicados"
     },
     "english": {
         "abrir": "OPEN",
@@ -184,6 +185,7 @@
         "form-email": "Email Address",
         "form-button": "Submit",
         "contactoeinfo": "Contact and information",
-        "form-message": "Message"
+        "form-message": "Message",
+        "articulospubli": "Published articles"
     }
 }
