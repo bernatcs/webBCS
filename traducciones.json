@@ -92,7 +92,9 @@
         "form-button": "Enviar",
         "contactoeinfo": "Contacto e información",
         "form-message": "Mensaje",
-        "articulospubli": "Artículos publicados:"
+        "articulospubli": "Artículos publicados:",
+        "404-title": "¡¿Pero cómo has llegao aquí?!",
+        "404-sub": "Anda, vuelve a la web que aún hay cosas que ver seguro ;)"
     },
     "english": {
         "abrir": "OPEN",
@@ -186,6 +188,8 @@
         "form-button": "Submit",
         "contactoeinfo": "Contact and information",
         "form-message": "Message",
-        "articulospubli": "Published articles:"
+        "articulospubli": "Published articles:",
+        "404-title": "But how did you get here?! ",
+        "404-sub": "Go on, head back to the website; there's surely more to see ;)"
     }
 }
