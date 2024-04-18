@@ -94,7 +94,12 @@
         "form-message": "Mensaje",
         "articulospubli": "Artículos publicados:",
         "404-title": "¡¿Pero cómo has llegao aquí?!",
-        "404-sub": "Anda, vuelve a la web que aún hay cosas que ver seguro ;)"
+        "404-sub": "Anda, vuelve a la web que aún hay cosas que ver seguro ;)",
+        "to-museum": "Al museo",
+        "to-works": "A las obras",
+        "w_21_1p": "Esta obra, planteada de septiembre de 2022 a junio del 2023, muestra un discurso basado en la polifonía virual tanto a nivel armónico como formal.",
+        "w_21_2p": "Bressò, toma su título de la mezcla entre las palabras \"So\", \"Ressonància\", que curiosamente hace parecer a \"Bressol\", canción de cuna. Este último término se puede observar en el carácter fúnebre de la obra ya que adquiere el doble significado de vida y muerte.",
+        "w_21_w": "La obra ha sido encargada por el DYCE \"Discovering Young Composers of Europe\" 2022 en colaboración con el ensemble Taller Sonoro.<br></br>Ha sido estrenada el 11.06.23 en Sevilla por Alba Francés Martínez."
     },
     "english": {
         "abrir": "OPEN",
@@ -190,6 +195,11 @@
         "form-message": "Message",
         "articulospubli": "Published articles:",
         "404-title": "But how did you get here?! ",
-        "404-sub": "Go on, head back to the website; there's surely more to see ;)"
+        "404-sub": "Go on, head back to the website; there's surely more to see ;)",
+        "to-museum": "To museum",
+        "to-works": "To works",
+        "w_21_1p": "This work, developed from September 2022 to June 2023, presents a discourse based on virtual polyphony both at a harmonic and formal level.",
+        "w_21_2p": "Bressò, takes its title from the blend of the words \"So\", \"Resonance\", which curiously resembles \"Cradle\", a lullaby. This last term can be seen in the mournful character of the work as it acquires the dual meaning of life and death.",
+        "w_21_w": "The work has been commissioned by DYCE \"Discovering Young Composers of Europe\" 2022 in collaboration with the ensemble Taller Sonoro.<br></br>It premiered on 11.06.23 in Seville by Alba Francés Martínez."
     }
 }
