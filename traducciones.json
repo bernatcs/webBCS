@@ -5,7 +5,7 @@
         "obras": "OBRAS",
         "otrasComposiciones": "OTRAS COMPOSICIONES",
         "otrosProyectos": "OTROS PROYECTOS",
-        "contactoEInformacion": "CONTACTO E INFORMACIÓN",
+        "contactoEInformacion": "CONTACTO Y BIO",
         "catalogoobras": "Catálogo de obras",
         "instrumentos": "Instrumentos",
         "instrumentacion": "Instrumentación",
@@ -93,7 +93,7 @@
         "form-name": "Nombre",
         "form-email": "Correo electrónico",
         "form-button": "Enviar",
-        "contactoeinfo": "Contacto e información",
+        "contactoeinfo": "Contacto y bio",
         "form-message": "Mensaje",
         "articulospubli": "Artículos publicados:",
         "404-title": "¡¿Pero cómo has llegao aquí?!",
@@ -114,7 +114,7 @@
         "w_4_w": "Esta obra ha sido seleccionada en el taller de música de nueva creación que realiza Tarab Hispánica (2020).",
         "w_5_1p": "El chivito es un sándwich de carne vacuna y otros ingredientes, generalmente aderezado con mayonesa y acompañado de papas fritas, algunas veces con ensalada rusa u otra guarnición. Aunque es originario de Uruguay, esta obra toma el nombre de la versión valenciana Xivito.",
         "w_5_2p": "Concebido en forma de standard, Xivito entraría dentro del género del latin jazz y jazz-fusion. Actualmente se ha ajustado a la formación de big band reducida para el álbum de Screaming Pillows.",
-        "w_5_w": "Grabada en el álbum Screaming Pillows & The Liao Brass, álbum ganador del Carles Santos a mejor álbum de Jazz en 2022.",
+        "w_5_w": "Grabada en el álbum Screaming Pillows & The Liao Brass, álbum ganador del premio Carles Santos a mejor álbum de Jazz en 2022.",
         "w_6_1p": "Esta obra intenta desarrollar la idea del número 7 en todos los aspectos: armónico/melódico en forma de séptima menor, pero también en la repetición de las notas o muchos más elementos supeditados a este número. Es una obra donde todos los elementos estan relacionados teniendo, por tanto, unas limitaciones grandes a la hora de la composición.",
         "w_6_2p": "El nombre de la obra, que empezará una tradición de obras para instrumento monofónico solo, proviene de una misión espacial que fracasó en la reentrada en la tierra, causando la muerte de los 7 tripulantes.",
         "w_7_1p": "Es una obra que surge de la admiración a los inicios de la estereofonía que se descubrieron, gracias a las condiciones del espacio, en la Basílica de San Marco. A su vez está inspirada en el fragmento inicial del \"Oh Magnum Mysterium\" de Giovanni Gabrieli, compositor que hizo hincapié en esta técnica. El título proviene de una de las cúpulas de la basílica. Esta narra, en forma de mosaico, el origen de la creación tan Magnoi como Misterioso.",
@@ -133,7 +133,7 @@
         "w_12_w": "Esta obra ha sido seleccionado en el festival ENSEMS 2021 en el \"Taller de creación sonora\" a cargo del Ensemble Mosaik",
         "w_13_1p": "Esta obra plantea, dentro de un estilo que mezcla el flamenco y el rock con el jazz, una relación entre la dualidad de la física cuántica y la música aplicándola a conceptos tales como la armonía, ritmo y melodía a través de modulaciones u otros elementos.",
         "w_13_2p": "Ha sido concebida para la plantilla: Fl/S.S, Fl/A.S, 2T.S, 2Trumpets, 2Trombone, Piano, Vibes, E.Bass, Drums aunque también existe la versión para: Fl/A.S, 2T.S, Piano, Vibes, E.Bass, Drums.",
-        "w_13_w": "Grabada en el álbum Screaming Pillows & The Liao Brass, álbum ganador del Carles Santos a mejor álbum de Jazz en 2022.",
+        "w_13_w": "Grabada en el álbum Screaming Pillows & The Liao Brass, álbum ganador del premio Carles Santos a mejor álbum de Jazz en 2022.",
         "w_14_1p": "La obra está compuesta a partir del patrón/tema rítmico-melódico \"Boro Demborola\", es por eso que toda la obra investiga en cómo el groove africano puede unir los patrones mediante la repetición y la alteración semi-aleatoria.",
         "w_14_2p": "Es una obra compuesta para 3-6 Balafones cromáticos (o con la pentatónica de Sol y Si), pero puede interpretarse en marimbas.",
         "w_15_1p": "“Lo único que hizo fue escribir una carta exponiendo las líneas generales y el 4 de diciembre de 1930 la envió a Lise Meitner, que estaba participando en un congreso en Tübingen, junto con uno de sus colaboradores para que diera explicaciones si alguien se las pedía. En la carta Pauli decía que no había podido ir él en persona porque era “indispensable en Zúrich” porque le habían invitado a un baile.”",
@@ -162,7 +162,8 @@
         "w_23_1p": "Es una pieza para orquesta que se caracteriza por el uso de masas sonoras, el uso del programa Orchidea para la creaciones de estas masas, una linea continua ascendente en el bajo y el uso de las técnicas contemporaneas con enfasis en el timbre.",
         "w_24_1p": "Esta obra, planteada en Octubre del 2023, investiga las sonoridades de un ensemble grande en un discurso donde convivent una polifonia fragmentada con tratamientos armónicos actuales pero dando un fuerte peso en el aspecto rítmico y gestual de la obra.",
         "w_24_2p": "Este conjunto de características articulan esta obra para 16 instrumentistas. Elenita beneath the beach, que dura 5 min, conforma una visión actual donde los voicings de la música para big band, el Groove de músicas del mundo y la escritura gestual tienen cabida dentro de un estilo de música de nueva creación.",
-        "w_24_w": "Esta obra es la obra con la que el compositor recibe el premio extraordinario de la carrera de compositción en el Conservatorio de Música \"Joaquín Rodrigo\" de Valencia."
+        "w_24_w": "Esta obra es la obra con la que el compositor recibe el premio extraordinario de la carrera de compositción en el Conservatorio de Música \"Joaquín Rodrigo\" de Valencia.",
+        "bio": "Bernat Cucarella Sifre (2001), nace en Alzira, una localidad de Valencia. Empezó estudiando violín a los 4 años que posteriormente cambió por la percusión. Continuó sus estudios de formación clásica interesándose en el jazz y la composición. Cursó bachillerato escénico y los estudios superiores de composición en el CSMV tutorizado por Voro García. A su vez, mantuvo una estrecha relación con el departamento de sonología, jazz y percusión.<br></br>Como compositor, destaca el primer premio en el concurso internacional de composición para quinteto de metales organizado por Spanish Brass en el festival SBALZ 2023 y el premio de obra solo en el festival DYCE a nivel europeo, así como el encargo de dos obras para el festival Ensems 2021 dentro de un proyecto pedagógico y una obra para banda en Ensems 2022.<br></br>Sus obras trabajan el gesto sonoro a través de las sonoridades tímbricas aunque también con un tratamiento armónico y rítmico. Se pueden observar influencias directas de la música para big band y del concepto del jazz en sus obras así como el trabajo del groove que tienen por la relación con la percusión.<br></br>Toda la información que ha recibido sobre arte a lo largo de su formación se ve reflejada en las diferentes obras que compone siendo la escena, la electrónica y la convivencia de diferentes estilos elementos utilizados en su discurso artístico."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -170,7 +171,7 @@
         "obras": "WORKS",
         "otrasComposiciones": "OTHER COMPOSITIONS",
         "otrosProyectos": "OTHER PROJECTS",
-        "contactoEInformacion": "CONTACT & INFORMATION",
+        "contactoEInformacion": "CONTACT & BIO",
         "catalogoobras": "Catalog of works",
         "instrumentos": "Instruments",
         "instrumentacion": "Instrumentation",
@@ -257,7 +258,7 @@
         "form-name": "Name",
         "form-email": "Email Address",
         "form-button": "Submit",
-        "contactoeinfo": "Contact and information",
+        "contactoeinfo": "Contact and bio",
         "form-message": "Message",
         "articulospubli": "Published articles:",
         "404-title": "But how did you get here?! ",
@@ -326,6 +327,7 @@
         "w_23_1p": "This is a piece for orchestra characterized by the use of sound masses, the use of the Orchidea program for creating these masses, a continuous ascending line in the bass, and the use of contemporary techniques with an emphasis on timbre.",
         "w_24_1p": "This work, developed in October 2023, explores the sonorities of a large ensemble in a discourse where fragmented polyphony coexists with contemporary harmonic treatments, while placing a strong emphasis on the rhythmic and gestural aspects of the piece.",
         "w_24_2p": "This set of features articulates this work for 16 musicians. 'Elenita beneath the beach,' lasting 5 minutes, forms a current vision where the voicings of Big Band music, the Groove of world musics, and gestural writing are incorporated within a style of new music creation.",
-        "w_24_w": "This work is the piece with which the composer receives the extraordinary prize of the composition career at the \"Joaquín Rodrigo\" Conservatory of Music in Valencia."
+        "w_24_w": "This work is the piece with which the composer receives the extraordinary prize of the composition career at the \"Joaquín Rodrigo\" Conservatory of Music in Valencia.",
+        "bio": "Bernat Cucarella Sifre (2001), born in Alzira, a town in Valencia. He began studying violin at the age of 4, later switching to percussion. He continued his classical training, developing an interest in jazz and composition. He completed a performing arts high school and higher studies in composition at CSMV, mentored by Voro García. Additionally, he maintained a close relationship with the departments of sonology, jazz, and percussion.<br></br>As a composer, he is noted for winning the first prize in the international composition contest for brass quintet organized by Spanish Brass at the SBALZ festival 2023 and the solo work award at the DYCE festival at the European level, as well as commissions for two works for the Ensems festival 2021 within a pedagogical project and a work for band at Ensems 2022.<br></br>His works explore sound gesture through timbral sonorities but also with harmonic and rhythmic treatment. Direct influences from big band music and the concept of jazz can be seen in his works, as well as the employment of groove related to his connection with percussion.<br></br>All the information he has received about art throughout his training is reflected in the various works he composes, with the scene, electronics, and the coexistence of different styles being elements used in his artistic discourse."
     }
 }
