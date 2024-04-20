@@ -1,6 +1,6 @@
 {
     "espanol": {
-        "abrir": "ABRIR",
+        "abrir": "MUSEO",
         "museo": "~ MUSEO ~",
         "obras": "OBRAS",
         "otrasComposiciones": "OTRAS COMPOSICIONES",
@@ -27,6 +27,7 @@
         "other_video": "vídeo",
         "other_electronic": "electrónica",
         "other_trans": "trans.",
+        "other_other": "otros",
         "other_mpa": "Mú sica para audiovisuales",
         "other_mpa_sub": "Videojuegos, música para escena, música para vídeo...",
         "other_arr": "Arreglos",
@@ -39,6 +40,8 @@
         "other_electr_s": "Proyectos relacionados con la electrónica, programación, sensores...",
         "other_trans2": "Tanreb transcripcions",
         "other_trans_s": "Repositorio de transcripciones gratuitas",
+        "other_other-head": "Otros",
+        "other_other-sub": "Artículos publicados",
         "o_o_ca_ecdlm": "Corto animado: El chico de los molinos",
         "o_o_ca_ecdlm_s": "Música original para el corto \"El chico de los molinos\" por Olga Sanchis.<br></br>Tiene una melodía que se repite como si de un mantra se tratara, haciendo referencia a la historia cíclica de la historia. Su carácter armónico ha sido influenciado por el acorde de Tristan e Isolda de Wagner, que trata una trama parecida, y el movimiento melódico descendente de la figura del lamento en las pri- meras óperas. El coro hace referencia a los cantos de sirenas y, mediante una modula- ción tímbrica, son transportados al órgano, que ejecuta la misma función.",
         "o_o_ca_e": "Corto animado: Elliot",
@@ -162,7 +165,7 @@
         "w_24_w": "Esta obra es la obra con la que el compositor recibe el premio extraordinario de la carrera de compositción en el Conservatorio de Música \"Joaquín Rodrigo\" de Valencia."
     },
     "english": {
-        "abrir": "OPEN",
+        "abrir": "MUSEUM",
         "museo": "~ MUSEUM ~",
         "obras": "WORKS",
         "otrasComposiciones": "OTHER COMPOSITIONS",
@@ -189,6 +192,7 @@
         "other_video": "video",
         "other_electronic": "electronics",
         "other_trans": "trans.",
+        "other_other": "other",
         "other_mpa": "Music for audiovisuals",
         "other_mpa_sub": "Video games, music for scene, music for video...",
         "other_arr": "Arrangements",
@@ -200,6 +204,8 @@
         "other_electr": "Electronics",
         "other_electr_s": "trans.",
         "other_trans2": "Tanreb transcripcions",
+        "other_other-head": "Other",
+        "other_other-sub": "Published articles",
         "o_o_ca_ecdlm": "Animated short: El chico de los molinos",
         "o_o_ca_ecdlm_s": "Original music for the short film \"El chico de los molinos\" by Olga Sanchis.<br></br>It features a melody that repeats as if it were a mantra, referencing the cyclic nature of the story. Its harmonic character has been influenced by Wagner's Tristan and Isolde chord, which deals with a similar plot, and the descending melodic movement of the lament figure in early operas. The chorus refers to the songs of sirens and, through a timbral modulation, are transported to the organ, which performs the same function.",
         "o_o_ca_e": "Animated short: Elliot",
