@@ -1,8 +1,8 @@
 {
     "espanol": {
         "abrir": "MUSEO",
-        "museo": "~ MUSEO ~",
-        "obras": "CATÁ LOGO DE OBRAS",
+        "museo": "MUSEO",
+        "obras": "CATÁLOGO DE OBRAS",
         "otrasComposiciones": "OTRAS COMPOSICIONES",
         "otrosProyectos": "OTROS PROYECTOS",
         "contactoEInformacion": "CONTACTO Y BIO",
@@ -167,7 +167,7 @@
     },
     "english": {
         "abrir": "MUSEUM",
-        "museo": "~ MUSEUM ~",
+        "museo": "MUSEUM",
         "obras": "CATALOG OF WORKS",
         "otrasComposiciones": "OTHER COMPOSITIONS",
         "otrosProyectos": "OTHER PROJECTS",
