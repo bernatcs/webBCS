@@ -183,6 +183,7 @@
         "notationguidetitle": "Guía de notación musical",
         "next": "Siguiente",
         "previous": "Anterior",
+        "tec-general": "Técnicas generales:",
         "o_7_musi": "MUSIHACKS",
         "o_7_musi_s": "Participación en la creación de los cursos Piano Melodías y Piano Partituras de Musihacks.",
         "w_28_1p": "Con una duración aproximada de 20 minutos y para un gran grupo de percusión ad hoc para un espacio, está inspirada en el mito de la Torre de Babel. Esta obra pretende explorar la traducción de un mismo gesto sonoro en 3 grupos instrumentales.<br></br>El primer grupo, con un discurso puntillista y enérgico, está formado por 3 percusionistas con bongós, que dirigen el discurso. El segundo grupo está formado por instrumentos diferentes de percusión determinada, que, recogiendo la resonancia de los bongós, la convierten en un espectro armónico traduciendo el material original. Finalmente, el último grupo, el más numeroso, recoge toda la sonoridad y la traduce de forma espacializada.",
@@ -198,7 +199,7 @@
         "ng_1_ex": "Se ejecuta con una pequeña desafinación por un cambio de embocadura en los instrumentos de viento o un cambio de posición o un bend en los instrumentos de cuerda, por ejemplo.",
         "ng_2": "Estas alteraciones se consideran microtonales exactas.<br></br>Las alteraciones siguen la norma tradicional. Durante la pieza se añaden alteraciones de cortesía dada la dificultad y complejidad que puede suponer su lectura.",
         "ng_2_ex": "Se ejecutan por cambio a una posición concreta.<br></br>Según estan representadas en la imagen: -150 cents (-3/4 tono), -50 cents (-1/4 tono), +50 cents (+1/4 tono), +150 cents (+3/4 tono).",
-        "ng_3": "Lo más alto posible.",
+        "ng_3": "Lo más agudo posible.<br></br>Importa el tamaño (grande) del triángulo, así como su dirección.",
         "ng_3_ex": "Se ejecuta lo más alto posible en el instrumento. Si es necesario se debe utilizar técnicas extendidas como sobrepresiónu otros."
     },
     "english": {
@@ -384,6 +385,7 @@
         "notationguidetitle": "MUSICAL NOTATION GUIDE",
         "next": "Next",
         "previous": "Previous",
+        "tec-general": "General techniques:",
         "o_7_musi": "MUSIHACKS",
         "o_7_musi_s": "Participation in the creation of the Piano Melodias and Piano Partiruras courses by Musihacks.",
         "w_28_1p": "With an approximate duration of 20 minutes and for a large ad hoc percussion group for a space, it is inspired by the myth of the Tower of Babel. This work aims to explore the translation of the same sound gesture in 3 instrumental groups.<br></br>The first group, with a pointillistic and energetic discourse, is made up of 3 percussionists with bongos, who lead the discourse. The second group is made up of different pitched percussion instruments, which, capturing the resonance of the bongos, convert it into a harmonic spectrum, translating the original material. Finally, the last group, the largest, gathers all the sonority and translates it in a spatialized manner.",
@@ -399,7 +401,7 @@
         "ng_1_ex": "They are executed with slight detuning, achieved through an embouchure adjustment in wind instruments or a change of position or a bend in string instruments, for example.",
         "ng_2": "These alterations are considered exact microtonal changes.<br></br>The alterations follow traditional conventions. Courtesy accidentals are added throughout the piece due to the potential difficulty and complexity of reading.",
         "ng_2_ex": "They are executed by changing to a specific position.<br></br>As represented in the image: -150 cents (-3/4 tone), -50 cents (-1/4 tone), +50 cents (+1/4 tone), +150 cents (+3/4 tone).",
-        "ng_3": "As high as possible.",
+        "ng_3": "As high as possible.<br></br>The size (big) of the triangle matters, as does its direction.",
         "ng_3_ex": "It is played as high as possible on the instrument. If necessary, extended techniques such as overpressure or others should be used."
     }
 }
