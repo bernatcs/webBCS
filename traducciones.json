@@ -193,8 +193,12 @@
         "w_30_1p": "Esta obra investiga las sonoridades de un sexteto en un discurso donde conviven una polifonía fragmentada con tratamientos armónicos actuales, aportando un fuerte peso al aspecto espectral y gestual de la obra.<br></br>\"La ecuación del calor\" conforma una visión actual donde el planteamiento puntillista, la variedad rítmica y las modulaciones tímbricas están inspiradas en la ecuación homónima. Esta, describe la distribución del calor (o variaciones de la temperatura) en una región a lo largo del transcurso del tiempo. Además, ayudó al descubrimiento de la serie de Fourier, necesaria en el análisis de armónicos de un sonido.",
         "w_30_2p": "Aunque hay una inspiración científica, el discurso orgánico ha sido planteado en pro del músico y del oyente, esperando un disfrute de ambas partes luego de un trabajo de micro-fraseo, fraseo y espacialización, entre otros.",
         "w_30_w": "Esta obra ha sido galardonada con el 2o premio de la 35a edición del Premio Jóvenes Compositores 2024 - SGAE CNDM en 2024",
-        "ng_1": "Estas alteraciones se consideran microtonales aproximadas.",
-        "ng_1_ex": "Se ejecuta con una pequeña desafinación por un cambio de embocadura en los instrumentos de viento o un cambio de posición o un bend en los instrumentos de cuerda, por ejemplo."
+        "ng_1": "Estas alteraciones se consideran microtonales aproximadas.<br></br>Las alteraciones siguen la norma tradicional. Durante la pieza se añaden alteraciones de cortesía dada la dificultad y complejidad que puede suponer su lectura.",
+        "ng_1_ex": "Se ejecuta con una pequeña desafinación por un cambio de embocadura en los instrumentos de viento o un cambio de posición o un bend en los instrumentos de cuerda, por ejemplo.",
+        "ng_2": "Estas alteraciones se consideran microtonales exactas.<br></br>Las alteraciones siguen la norma tradicional. Durante la pieza se añaden alteraciones de cortesía dada la dificultad y complejidad que puede suponer su lectura.",
+        "ng_2_ex": "Se ejecutan por cambio a una posición concreta.<br></br>Según estan representadas en la imagen: -150 cents (-3/4 tono), -50 cents (-1/4 tono), +50 cents (+1/4 tono), +150 cents (+3/4 tono).",
+        "ng_3": "Lo más alto posible.",
+        "ng_3_ex": "Se ejecuta lo más alto posible en el instrumento. Si es necesario se debe utilizar técnicas extendidas como sobrepresiónu otros."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -389,8 +393,12 @@
         "w_30_1p": "This work investigates the soundscapes of a sextet within a discourse where fragmented polyphony coexists with contemporary harmonic treatments, placing significant emphasis on the spectral and gestural aspects of the piece.<br></br>\"La ecuación del calor\" offers a modern vision where pointillistic approaches, rhythmic variety, and timbral modulations are inspired by the eponymous equation. This equation describes the distribution of heat (or temperature variations) in a region over time. Moreover, it led to the discovery of the Fourier series, essential for the harmonic analysis of a sound.",
         "w_30_2p": "Although there is scientific inspiration, the organic discourse has been designed to favor both the musician and the listener, aiming for an enjoyable experience for both after a process involving micro-phrasing, phrasing, and spatialization, among others.",
         "w_30_w": "This work was awarded the 2nd prize in the 35th edition of the Premio Jóvenes Compositores 2024 - SGAE CNDM in 2024.",
-        "ng_1": "These alterations are considered approximate microtonal changes.",
-        "ng_1_ex": "They are executed with slight detuning, achieved through an embouchure adjustment in wind instruments or a change of position or a bend in string instruments, for example."
+        "ng_1": "These alterations are considered approximate microtonal changes.<br></br>The alterations follow traditional conventions. Courtesy accidentals are added throughout the piece due to the potential difficulty and complexity of reading.",
+        "ng_1_ex": "They are executed with slight detuning, achieved through an embouchure adjustment in wind instruments or a change of position or a bend in string instruments, for example.",
+        "ng_2": "These alterations are considered exact microtonal changes.<br></br>The alterations follow traditional conventions. Courtesy accidentals are added throughout the piece due to the potential difficulty and complexity of reading.",
+        "ng_2_ex": "They are executed by changing to a specific position.<br></br>As represented in the image: -150 cents (-3/4 tone), -50 cents (-1/4 tone), +50 cents (+1/4 tone), +150 cents (+3/4 tone).",
+        "ng_3": "As high as possible.",
+        "ng_3_ex": "It is played as high as possible on the instrument. If necessary, extended techniques such as overpressure or others should be used."
     }
 }
 
