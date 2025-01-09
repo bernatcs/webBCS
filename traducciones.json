@@ -302,7 +302,10 @@
         "ng_48": "El <u>glissando a cámara lenta</u> produce una sonoridad ténue.",
         "ng_48_ex": "Se consigue ejecutando tal y cómo la técnica lo indica en todas las cuerdas del instrumento.",
         "ng_49": "El <u>arco a cámara lenta</u> produce una sonoridad ténue.",
-        "ng_49_ex": "Se consigue ejecutando tal y cómo la técnica lo indica."
+        "ng_49_ex": "Se consigue ejecutando tal y cómo la técnica lo indica.",
+        "ng_50": "El <u>trémolo irregular largo</u> produce una sonoridad inestable.",
+        "ng_50_ex": "Se consigue alternando de forma rápida y desigual entre las notas del acorde indicado."
+
     },
     "english": {
         "abrir": "MUSEUM",
@@ -606,7 +609,9 @@
         "ng_48": "Slow-motion glissando produces a subtle sound.",
         "ng_48_ex": "It is achieved by performing the technique as indicated on all strings of the instrument.",
         "ng_49": "Slow-motion bowing produces a subtle sound.",
-        "ng_49_ex": "It is achieved by performing the technique as indicated."
+        "ng_49_ex": "It is achieved by performing the technique as indicated.",
+        "ng_50": "The long irregular tremolo produces an unstable sonority.",
+        "ng_50_ex": "It is achieved by alternating quickly and unevenly between the notes of the indicated chord."
     }
 }
 
