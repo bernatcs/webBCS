@@ -304,8 +304,15 @@
         "ng_49": "El <u>arco a cámara lenta</u> produce una sonoridad ténue.",
         "ng_49_ex": "Se consigue ejecutando tal y cómo la técnica lo indica.",
         "ng_50": "El <u>trémolo irregular largo</u> produce una sonoridad inestable.",
-        "ng_50_ex": "Se consigue alternando de forma rápida y desigual entre las notas del acorde indicado."
-
+        "ng_50_ex": "Se consigue alternando de forma rápida y desigual entre las notas del acorde indicado.",
+        "ng_51": "La técnica <u>mirar al público</u> forma parte de la colleción de técnicas performáticas.",
+        "ng_51_ex": "Se debe mantener la mirada en el público hasta que otra técnica indique lo contrario.",
+        "ng_52": "La técnica <u>mirar con una cara loca</u> forma parte de la colleción de técnicas performáticas.",
+        "ng_52_ex": "Se debe mantener la mirada en el público con una expresión facial exagerada hasta que otra técnica indique lo contrario.",
+        "ng_53": "La técnica <u>pausa</u> forma parte de la colleción de técnicas performáticas.",
+        "ng_53_ex": "Se debe mantener la posición en pausa hasta que otra técnica indique lo contrario. Suele preceder a una técnica de play.",
+        "ng_54": "La técnica <u>play</u> forma parte de la colleción de técnicas performáticas.",
+        "ng_54_ex": "Se debe continuar interpretando la obra de forma ordinaria. Suele venir precedida de una técnica de pausa."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -611,7 +618,15 @@
         "ng_49": "Slow-motion bowing produces a subtle sound.",
         "ng_49_ex": "It is achieved by performing the technique as indicated.",
         "ng_50": "The long irregular tremolo produces an unstable sonority.",
-        "ng_50_ex": "It is achieved by alternating quickly and unevenly between the notes of the indicated chord."
+        "ng_50_ex": "It is achieved by alternating quickly and unevenly between the notes of the indicated chord.",
+        "ng_51": "The technique 'looking at the audience' is part of the collection of performative techniques.",
+        "ng_51_ex": "The gaze should be fixed on the audience until another technique indicates otherwise.",
+        "ng_52": "The technique 'looking with a crazy face' is part of the collection of performative techniques.",
+        "ng_52_ex": "The gaze should be fixed on the audience with an exaggerated facial expression until another technique indicates otherwise.",
+        "ng_53": "The technique 'pause' is part of the collection of performative techniques.",
+        "ng_53_ex": "The position should be held in pause until another technique indicates otherwise. It often precedes a play technique.",
+        "ng_54": "The technique 'play' is part of the collection of performative techniques.",
+        "ng_54_ex": "The performance should continue in an ordinary manner. It is often preceded by a pause technique."
     }
 }
 
