@@ -276,7 +276,7 @@
         "ng_35": "Golpear las cuerdas con la mano manteniendo la mano en las cuerdas.",
         "ng_35_ex": "En los casos en las que el símbolo de la mano no esté relleno, la mano no debe quedarse sobre las cuerdas (https://www.youtube.com/watch?v=fX9-jddE2bY&t=507s)",
         "ng_36": "El <u>stoppato o sordina</u> es una técnica extendida que produce una sonoridad percusiva, prácticamente sin tono.",
-        "ng_36_ex": "Se debe tapar las cuerdas del piano o la superficie resonadora. En este caso, se requerirá de algún objeto que mantenga tapado las cuerdas o los resonadores durante un tiempo.<br></br>Si se interpreta en <u>piano de juguete</u>, se debe hacer como se indica en <a href=\"https://youtu.be/Rga13pCuK5c\">este</a> vídeo.",
+        "ng_36_ex": "Se debe tapar las cuerdas del piano o la superficie resonadora. En este caso, se requerirá de algún objeto que mantenga tapado las cuerdas o los resonadores durante un tiempo.",
         "ng_37": "Esta técnica involucra dos notaciones: la representación del instrumento güiro (haciendo referencia a su sonoridad) y las \"x\" en las cabezas de nota, haciendo referencia a la sonoridad percusiva, sin tono, del sonido resultante.",
         "ng_37_ex": "Es aconsejable revisar la obra \"Guero\" de Lachenmann que desarrolla este gesto.",
         "ng_38": "Esta técnica involucra dos notaciones: el uso de púa de guitarra y el paso sobre la parte metálica de los soportes de las cuerdas. El resultado es una sonoridad metálica brillante.",
@@ -317,8 +317,8 @@
         "ng_55_ex": "Se produce golpeando la tapa con las uñas imitando el estilo de los vídeos de ASMR.",
         "ng_56": "La técnica <u>acción</u> forma parte de la colleción de técnicas performáticas.",
         "ng_56_ex": "Indica el momento en el que se debe realizar una acción concreta. Esta acción puede ser desde mover un objeto hasta realizar un gesto concreto.<br></br>Esta técnica siempre va precedida de una linea que indica la duración de la acción. Además, en texto, se indica qué debe hacer el performer.",
-        "ng_57": "El <u>stoppato o sordina</u> es una técnica extendida que produce una sonoridad percusiva, prácticamente sin tono, en el piano.",
-        "ng_57_ex": "Se debe tapar las cuerdas del piano. En este caso, NO se requerirá de algún objeto que mantenga las cuerdas tapadas durante un tiempo, si no que se tapará con la mano."
+        "ng_57": "El <u>stoppato o sordina</u> es una técnica extendida que produce una sonoridad percusiva, prácticamente sin tono.",
+        "ng_57_ex": "Se debe tapar las cuerdas del piano. En este caso, NO se requerirá de algún objeto que mantenga las cuerdas tapadas durante un tiempo, si no que se tapará con la mano.<br></br>Si se interpreta en <u>piano de juguete</u>, se debe hacer como se indica en <a href=\"https://youtu.be/Rga13pCuK5c\">este</a> vídeo."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -596,7 +596,7 @@
         "ng_35": "Strike the strings with the hand while keeping the hand on the strings.",
         "ng_35_ex": "In cases where the hand symbol is not filled in, the hand should not stay on the strings (https://www.youtube.com/watch?v=fX9-jddE2bY&t=507s).",
         "ng_36": "<u>Stoppato or mute</u> is an extended technique that produces a percussive sound, practically without tone.",
-        "ng_36_ex": "The piano strings or the ressonators must be dampened. In this case, an object will be required to keep the strings or the ressonators dampened for an extended period.<br></br>If performed on a <u>toy piano</u>, it must be done as shown in <a href=\"https://youtu.be/Rga13pCuK5c\">this</a> video.",
+        "ng_36_ex": "The piano strings or the ressonators must be dampened. In this case, an object will be required to keep the strings or the ressonators dampened for an extended period.",
         "ng_37": "This technique involves two notations: the representation of the güiro instrument (referencing its sonority) and the \"x\" on note heads, referencing the percussive, toneless sound of the result.",
         "ng_37_ex": "It is advisable to review Lachenmann's work \"Guero,\" which develops this gesture.",
         "ng_38": "This technique involves two notations: the use of a guitar pick and bowing on the metallic part of the string holders. The result is a bright metallic sound.",
@@ -637,8 +637,8 @@
         "ng_55_ex": "It is achieved by tapping the lid with the nails, imitating the style of ASMR videos.",
         "ng_56": "The technique <u>action</u> is part of the collection of performative techniques.",
         "ng_56_ex": "It indicates the moment when a specific action must be performed. This action can range from moving an object to making a specific gesture.<br></br>This technique is always preceded by a line that indicates the duration of the action. Additionally, the text specifies what the performer should do.",
-        "ng_57": "The <u>stoppato or mute</u> is an extended technique that produces a percussive sound, almost without tone, on the piano.",
-        "ng_57_ex": "The piano strings should be muted. In this case, NO object is required to keep the strings muted over time; instead, they will be muted with the hand."
+        "ng_57": "The <u>stoppato or mute</u> is an extended technique that produces a percussive sound, almost without tone.",
+        "ng_57_ex": "The piano strings should be muted. In this case, NO object is required to keep the strings muted over time; instead, they will be muted with the hand.<br></br>If performed on a <u>toy piano</u>, it must be done as shown in <a href=\"https://youtu.be/Rga13pCuK5c\">this</a> video."
     }
 }
 
