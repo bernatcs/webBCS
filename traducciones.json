@@ -318,7 +318,7 @@
         "ng_56": "La técnica <u>acción</u> forma parte de la colleción de técnicas performáticas.",
         "ng_56_ex": "Indica el momento en el que se debe realizar una acción concreta. Esta acción puede ser desde mover un objeto hasta realizar un gesto concreto.<br></br>Esta técnica siempre va precedida de una linea que indica la duración de la acción. Además, en texto, se indica qué debe hacer el performer.",
         "ng_57": "El <u>stoppato o sordina</u> es una técnica extendida que produce una sonoridad percusiva, prácticamente sin tono.",
-        "ng_57_ex": "Se debe tapar las cuerdas del piano. En este caso, NO se requerirá de algún objeto que mantenga las cuerdas tapadas durante un tiempo, si no que se tapará con la mano.<br></br>Si se interpreta en <u>piano de juguete</u>, se debe hacer como se indica en <a href=\"https://youtu.be/Rga13pCuK5c\" style=\"text-decoration: underline;\">este</a> vídeo."
+        "ng_57_ex": "Se debe tapar las cuerdas del piano. En este caso, NO se requerirá de algún objeto que mantenga las cuerdas tapadas durante un tiempo, si no que se tapará con la mano.<br></br>Si se interpreta en <u>piano de juguete</u>, se debe hacer como se indica en <a href=\"https://youtu.be/Rga13pCuK5c\" style=\"text-decoration: none;\"><u>este</u></a> vídeo."
     },
     "english": {
         "abrir": "MUSEUM",
