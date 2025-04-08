@@ -329,7 +329,20 @@
         "ng_56": "La técnica <u>acción</u> forma parte de la colleción de técnicas performáticas.",
         "ng_56_ex": "Indica el momento en el que se debe realizar una acción concreta. Esta acción puede ser desde mover un objeto hasta realizar un gesto concreto.<br></br>Esta técnica siempre va precedida de una linea que indica la duración de la acción. Además, en texto, se indica qué debe hacer el performer.",
         "ng_57": "El <u>stoppato o sordina</u> es una técnica extendida que produce una sonoridad percusiva, prácticamente sin tono.",
-        "ng_57_ex": "Se debe tapar las cuerdas del piano. En este caso, NO se requerirá de algún objeto que mantenga las cuerdas tapadas durante un tiempo, si no que se tapará con la mano.<br></br>Si se interpreta en <u>piano de juguete</u>, se debe hacer como se indica en <a href=\"https://youtu.be/Rga13pCuK5c\" style=\"text-decoration: none;\"><u>este</u></a> vídeo."
+        "ng_57_ex": "Se debe tapar las cuerdas del piano. En este caso, NO se requerirá de algún objeto que mantenga las cuerdas tapadas durante un tiempo, si no que se tapará con la mano.<br></br>Si se interpreta en <u>piano de juguete</u>, se debe hacer como se indica en <a href=\"https://youtu.be/Rga13pCuK5c\" style=\"text-decoration: none;\"><u>este</u></a> vídeo.",
+        "ng_58": "El <u>crótalo frotado con arco sobre timbal</u> produce una sonoridad silbante y cristalina. Se produce frotando con el arco el crótalo al revés sobre el timbal.",
+        "ng_58_ex": "La sonoridad depende de la presión del arco y la velocidad. A veces, se indica un gráfico que hace referencia al cambio de pedal, ya que esto cambia la sonoridad. Se debe interpretar cerca del aro del timbal para conseguir la sonoridad deseada.",
+        "ng_59": "El <u>plato frotado con arco sobre timbal</u> produce una sonoridad silbante y cristalina. Se produce frotando con arco el plato al revés sobre el timbal.",
+        "ng_59_ex": "La sonoridad depende de la presión del arco y la velocidad. A veces, se indica un gráfico que hace referencia al cambio de pedal, ya que esto cambia la sonoridad. Se debe interpretar cerca del aro del timbal para conseguir la sonoridad deseada.",
+        "ng_60": "El <u>golpe muerto o dead stroke</u> es una sonoridad percusiva que surge de la mezcla entre un golpe seco y un golpe con sordina.",
+        "ng_60_ex": "Se produce golpeando el parche o lámina con la baqueta y manteniendola sin dejar vibrar el instrumento.",
+        "ng_61": "Esta es la <u>indicación de baqueta</u>. Suele indicar solo la dureza de la baqueta omitiendo el tipo de baqueta (la que sea idiomática del instrumento).",
+        "ng_61_ex": "En casos donde pueda haber dudas, se indica la baqueta con la descripción completa. Si no se indica se puede deber a que continúa siendo la baqueta usada anteriormente aunque pertenezca a otro instrumento.",
+        "ng_62": "El <u>golpe en la campana</u> produce una sonoridad metálica y brillante.",
+        "ng_62_ex": "Se produce golpeando la campana del timbal con la baqueta. Muchas veces es necesario girar la baqueta y golpear con la parte de madera o incluso tener otra baqueta en la mano.",
+        "ng_63": "Esta técnica indica que se debe tocar <u>con las manos</u>",
+        "ng_64": "Esta técnica indica que se debe tocar <u>en el centro</u> del parche",
+        "ng_65": "Esto produce un sonido más apagado y menos resonante"
     },
     "english": {
         "abrir": "MUSEUM",
@@ -659,7 +672,20 @@
         "ng_56": "The technique <u>action</u> is part of the collection of performative techniques.",
         "ng_56_ex": "It indicates the moment when a specific action must be performed. This action can range from moving an object to making a specific gesture.<br></br>This technique is always preceded by a line that indicates the duration of the action. Additionally, the text specifies what the performer should do.",
         "ng_57": "The <u>stoppato or mute</u> is an extended technique that produces a percussive sound, almost without tone.",
-        "ng_57_ex": "The piano strings should be muted. In this case, NO object is required to keep the strings muted over time; instead, they will be muted with the hand.<br></br>If performed on a <u>toy piano</u>, it must be done as shown in <a href=\"https://youtu.be/Rga13pCuK5c\" style=\"text-decoration: none;\"><u>this</u></a> video."
+        "ng_57_ex": "The piano strings should be muted. In this case, NO object is required to keep the strings muted over time; instead, they will be muted with the hand.<br></br>If performed on a <u>toy piano</u>, it must be done as shown in <a href=\"https://youtu.be/Rga13pCuK5c\" style=\"text-decoration: none;\"><u>this</u></a> video.",
+        "ng_58": "The <u>crotale bowed upside down on timpani</u> produces a whistling and crystalline sound. It is performed by bowing the crotale upside down on the timpani.",
+        "ng_58_ex": "The sound depends on the bow pressure and speed. Sometimes, a graphic is provided to indicate a pedal change, as this affects the sound. It should be performed near the rim of the timpani to achieve the desired sonority.",
+        "ng_59": "The <u>cymbal bowed upside down on timpani</u> produces a whistling and crystalline sound. It is performed by bowing the cymbal upside down on the timpani.",
+        "ng_59_ex": "The sound depends on the bow pressure and speed. Sometimes, a graphic is provided to indicate a pedal change, as this affects the sound. It should be performed near the rim of the timpani to achieve the desired sonority.",
+        "ng_60": "The <u>dead stroke</u> is a percussive sonority resulting from a combination of a dry stroke and a muted stroke.",
+        "ng_60_ex": "It is performed by striking the head or plate with the mallet and keeping it pressed without allowing the instrument to vibrate.",
+        "ng_61": "This is the <u>mallet indication</u>. It usually refers only to the hardness of the mallet, omitting the mallet type (the one idiomatic to the instrument).",
+        "ng_61_ex": "In cases where there might be doubts, the mallet is indicated with a full description. If not specified, it may be because the same mallet is still being used, even if it belongs to another instrument.",
+        "ng_62": "The <u>stroke on the bell</u> produces a metallic and bright sonority.",
+        "ng_62_ex": "It is performed by striking the bell of the timpani with the mallet. Often it is necessary to turn the mallet and strike with the wooden part, or even hold a second mallet in hand.",
+        "ng_63": "This technique indicates that it should be played <u>with the hands</u>",
+        "ng_64": "This technique indicates that it should be played <u>in the center</u> of the head",
+        "ng_65": "This produces a more muffled and less resonant sound"
     }
 }
 
