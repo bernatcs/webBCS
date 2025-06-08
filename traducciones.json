@@ -348,7 +348,9 @@
         "ng_62_ex": "Se produce golpeando la campana del timbal con la baqueta. Muchas veces es necesario girar la baqueta y golpear con la parte de madera o incluso tener otra baqueta en la mano.",
         "ng_63": "Esta técnica indica que se debe tocar <u>con las manos</u>",
         "ng_64": "Esta técnica indica que se debe tocar <u>en el centro</u> del parche",
-        "ng_65": "Esto produce un sonido más apagado y menos resonante"
+        "ng_65": "Esto produce un sonido más apagado y menos resonante",
+        "ng_66": "El <u>growl</u> es una técnica vocal que produce un sonido gutural y áspero.",
+        "ng_66_ex": "Se produce cerrando vibrando las cuerdas vocales (cantando) mientras se ejecuta la nota. Esto hace que el timbre cambie. Se debe hacer con la embocadura del instrumento.<br></br>En estos casos, la nota indica la altura de la nota que se debe cantar a la vez que se toca la nota ordinaria escrita."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -694,7 +696,9 @@
         "ng_62_ex": "It is performed by striking the bell of the timpani with the mallet. Often it is necessary to turn the mallet and strike with the wooden part, or even hold a second mallet in hand.",
         "ng_63": "This technique indicates that it should be played <u>with the hands</u>",
         "ng_64": "This technique indicates that it should be played <u>in the center</u> of the head",
-        "ng_65": "This produces a more muffled and less resonant sound"
+        "ng_65": "This produces a more muffled and less resonant sound",
+        "ng_66": "The <u>growl</u> is a vocal technique that produces a guttural and rough sound.",
+        "ng_66_ex": "It is produced by vibrating the vocal cords (singing) while playing the note. This changes the timbre. It must be done with the instrument's embouchure.<br></br>In these cases, the note indicates the pitch that should be sung at the same time as the written ordinary note is played."
     }
 }
 
