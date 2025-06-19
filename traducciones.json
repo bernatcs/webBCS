@@ -104,6 +104,7 @@
         "to-museum": "Al museo",
         "to-works": "Al catálogo de obras",
         "to-notation": "A la guia de notación",
+        "all-instruments": "Para todos los instrumentos",
         "w_1_1p": "Primera obra consolidada de Bernat Cucarella Sifre. Mezcla el estilo minimalista de Steve Reich y las mixturas rítmicas.",
         "w_1_2p": "La pieza está compuesta por tres movimientos: \"Portait of Fernande Oliver\", una introducción y presentación del material temático; \"Portait of Ambroise Vollard\", un movimiento de improvisación libre y \"Portait of Dora Maar\", movimiento con un discurso virtuosístico y conclusivo.",
         "w_1_w": "La obra fue estrenada por Bernat Cucarella Sifre en 2018 en el auditorio de la Sociedad Musical de Alzira",
@@ -350,7 +351,10 @@
         "ng_64": "Esta técnica indica que se debe tocar <u>en el centro</u> del parche",
         "ng_65": "Esto produce un sonido más apagado y menos resonante",
         "ng_66": "El <u>growl</u> es una técnica vocal que produce un sonido gutural y áspero.",
-        "ng_66_ex": "Se produce cerrando vibrando las cuerdas vocales (cantando) mientras se ejecuta la nota. Esto hace que el timbre cambie. Se debe hacer con la embocadura del instrumento.<br></br>En estos casos, la nota indica la altura de la nota que se debe cantar a la vez que se toca la nota ordinaria escrita."
+        "ng_66_ex": "Se produce cerrando vibrando las cuerdas vocales (cantando) mientras se ejecuta la nota. Esto hace que el timbre cambie. Se debe hacer con la embocadura del instrumento.<br></br>En estos casos, la nota indica la altura de la nota que se debe cantar a la vez que se toca la nota ordinaria escrita.",
+        "ng_67_title": "Dinámica: mezzo",
+        "ng_67": "La <u>dinámica mezzo</u> se representa con una \"m\" en la partitura.<br></br>Es una dinámica inventada que se encuentra entre el mezzo-forte y el mezzo-piano.",
+        "ng_67_ex": "Mientras sus dinámicas contiguas indican una direccionalidad e intencionalidad, esta pretende ser una dinámica neutra, que no se dirige a un sentido concreto, perfecta para la música minimalista y/o estática."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -456,6 +460,7 @@
         "to-museum": "To museum",
         "to-works": "To cathalog of works",
         "to-notation": "To notation guide",
+        "all-instruments": "For all instruments",
         "w_1_1p": "First consolidated work of Bernat Cucarella Sifre. It blends Steve Reich's minimalist style with rhythmic mixtures.",
         "w_1_2p": "The piece is composed of three movements: \"Portrait of Fernande Oliver\", an introduction and presentation of the thematic material; \"Portrait of Ambroise Vollard\", a movement of free improvisation; and \"Portrait of Dora Maar\", a movement with a virtuosic and conclusive discourse.",
         "w_1_w": "The work was premiered by Bernat Cucarella Sifre in 2018 at the auditorium of the Sociedad Musical de Alzira",
@@ -698,7 +703,10 @@
         "ng_64": "This technique indicates that it should be played <u>in the center</u> of the head",
         "ng_65": "This produces a more muffled and less resonant sound",
         "ng_66": "The <u>growl</u> is a vocal technique that produces a guttural and rough sound.",
-        "ng_66_ex": "It is produced by vibrating the vocal cords (singing) while playing the note. This changes the timbre. It must be done with the instrument's embouchure.<br></br>In these cases, the note indicates the pitch that should be sung at the same time as the written ordinary note is played."
+        "ng_66_ex": "It is produced by vibrating the vocal cords (singing) while playing the note. This changes the timbre. It must be done with the instrument's embouchure.<br></br>In these cases, the note indicates the pitch that should be sung at the same time as the written ordinary note is played.",
+        "ng_67_title": "Dynamic: mezzo",
+        "ng_67": "The <u>mezzo dynamic</u> is represented by an \"m\" in the score.<br></br>It is an invented dynamic that lies between mezzo-forte and mezzo-piano.",
+        "ng_67_ex": "While its neighboring dynamics suggest directionality and intentionality, this one aims to be a neutral dynamic, not leaning toward any specific intent — perfect for minimalist and/or static music." 
     }
 }
 
