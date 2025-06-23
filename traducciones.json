@@ -354,7 +354,9 @@
         "ng_66_ex": "Se produce cerrando vibrando las cuerdas vocales (cantando) mientras se ejecuta la nota. Esto hace que el timbre cambie. Se debe hacer con la embocadura del instrumento.<br></br>En estos casos, la nota indica la altura de la nota que se debe cantar a la vez que se toca la nota ordinaria escrita.",
         "ng_67_title": "Dinámica: mezzo",
         "ng_67": "La <u>dinámica mezzo</u> se representa con una \"m\" en la partitura.<br></br>Es una dinámica inventada que se encuentra entre el mezzo-forte y el mezzo-piano.",
-        "ng_67_ex": "Mientras sus dinámicas contiguas indican una direccionalidad e intencionalidad, esta pretende ser una dinámica neutra, que no se dirige a un sentido concreto, perfecta para la música minimalista y/o estática."
+        "ng_67_ex": "Mientras sus dinámicas contiguas indican una direccionalidad e intencionalidad, esta pretende ser una dinámica neutra, que no se dirige a un sentido concreto, perfecta para la música minimalista y/o estática.",
+        "ng_68": "El <u>bocadillo</u> es una notación performática que indica que se debe declamar el texto indicado en la partitura.",
+        "ng_68_ex": "Se puede indicar como texto ordinario fuera de la partitura o dentro de ella con las notas aproximadas a la entonación del texto."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -706,7 +708,9 @@
         "ng_66_ex": "It is produced by vibrating the vocal cords (singing) while playing the note. This changes the timbre. It must be done with the instrument's embouchure.<br></br>In these cases, the note indicates the pitch that should be sung at the same time as the written ordinary note is played.",
         "ng_67_title": "Dynamic: mezzo",
         "ng_67": "The <u>mezzo dynamic</u> is represented by an \"m\" in the score.<br></br>It is an invented dynamic that lies between mezzo-forte and mezzo-piano.",
-        "ng_67_ex": "While its neighboring dynamics suggest directionality and intentionality, this one aims to be a neutral dynamic, not leaning toward any specific intent — perfect for minimalist and/or static music." 
+        "ng_67_ex": "While its neighboring dynamics suggest directionality and intentionality, this one aims to be a neutral dynamic, not leaning toward any specific intent — perfect for minimalist and/or static music.",
+        "ng_68": "The <u>speech bubble</u> is a performative notation indicating that the specified text in the score should be spoken.",
+        "ng_68_ex": "It can be indicated as plain text outside the score or within it using approximate pitches to reflect the intonation of the text." 
     }
 }
 
