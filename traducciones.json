@@ -256,8 +256,8 @@
         "ng_15_ex": "Depende del instrumento será necesario desmontar la boquilla del instrumento.",
         "ng_16": "Diferentes gradaciones de <u>sonido airoso</u> y tono real.<br></br>Según se muestra en la imágen: 0% tono - 100% aire || 50% tono - 50% aire || 100% tono - 0% aire.",
         "ng_16_ex": "La producción del sonido varia según el tipo de embocadura y/o caña. El tono airoso suele corresponder a un destensamiento en la embocadura.",
-        "ng_17": "El <u>tongue ram o golpe con la lengua</u> es un gesto sonoro que produce un sonido percusivo-explosivo.<br></br>El resultado sonoro es una 7a mayor inferior a la nota digitada.",
-        "ng_17_ex": "Se produce sellando completamente el orificio de la embocadura con los labios e impulsando con fuerza la lengua hacia el orificio de la embocadura.",
+        "ng_17": "El <u>tongue ram o golpe con la lengua</u> es un gesto sonoro que produce un sonido percusivo-explosivo.<br></br>El resultado sonoro es una 7a mayor inferior a la nota digitada cuando se interpreta en flauta.",
+        "ng_17_ex": "Se produce sellando completamente el orificio de la embocadura con los labios e impulsando con fuerza la lengua hacia el orificio de la embocadura.<br></br>Cabe destacar que la técnica no es exclusiva de la flauta, sino que se puede aplicar a cualquier instrumento de viento forzando una embocadura similar.",
         "ng_18": "El <u>whistle tone o tono de silbido</u> se produce cuando el aire se mueve lentamente con muy baja presión, como una exhalación suave. Las vibraciones se producen en la placa del labio en lugar de dentro del tubo produciendo un sonido agudo y fino.",
         "ng_18_ex": "En este caso son <u>abiertos</u>. Esto quiere decir que a partir de la misma posición aparecen otras notas y no hace falta hacer cambio de posición.",
         "ng_19": "El <u>cluster de armónicos</u>, whistle tone fuerte o overtones es un sonido agudo muy enérgico.",
@@ -357,7 +357,11 @@
         "ng_67": "La <u>dinámica mezzo</u> se representa con una \"m\" en la partitura.<br></br>Es una dinámica inventada que se encuentra entre el mezzo-forte y el mezzo-piano.",
         "ng_67_ex": "Mientras sus dinámicas contiguas indican una direccionalidad e intencionalidad, esta pretende ser una dinámica neutra, que no se dirige a un sentido concreto, perfecta para la música minimalista y/o estática.",
         "ng_68": "El <u>bocadillo</u> es una notación performática que indica que se debe declamar el texto indicado en la partitura.",
-        "ng_68_ex": "Se puede indicar como texto ordinario fuera de la partitura o dentro de ella con las notas aproximadas a la entonación del texto."
+        "ng_68_ex": "Se puede indicar como texto ordinario fuera de la partitura o dentro de ella con las notas aproximadas a la entonación del texto.",
+        "ng_69": "<u>Silenciar</u> es una notación performática que indica que se debe gesticular la acción sonora pero que no suene nada. Es decir, hacer mímica de la acción.",
+        "ng_69_ex": "Se debe tener en cuenta la dinámica de la acción para que el gesto sea acorde a la intención de la acción así como otras características del gesto como la altura de la nota, la velocidad, etc.",
+        "ng_70": "<u>Tudel</u> es una notación exclusiva del saxofón que hace referencia a una acción la parte homónima del instrumento.",
+        "ng_70_ex": "En este caso, se debe tocar con el tudel fuera del instrumento. Si se pide inspirar, se debe tocar con la boquilla dentro del tudel y se producirá un sonido parecido a una cláxon. Si se pide expirar, se debe tocar con la boquilla fuera y hace referencia a soplar de forma que hagas resonar el tudel con una técnica similar a las de las flautas traveseras."
     },
     "english": {
         "abrir": "MUSEUM",
@@ -614,8 +618,8 @@
         "ng_15_ex": "Depending on the instrument, it may be necessary to remove the instrument's mouthpiece.",
         "ng_16": "Different gradations of <u>airy sound</u> and real tone.<br></br>As shown in the image: 0% tone - 100% air || 50% tone - 50% air || 100% tone - 0% air.",
         "ng_16_ex": "The sound production varies depending on the type of embouchure and/or reed. The airy tone usually corresponds to a relaxation in the embouchure.",
-        "ng_17": "The <u>tongue ram</u> is a sound gesture that produces a percussive-explosive sound.<br></br>The resulting sound is a major seventh below the fingered note.",
-        "ng_17_ex": "It is produced by completely sealing the mouthpiece hole with the lips and forcefully pushing the tongue toward the mouthpiece hole.",
+        "ng_17": "The <u>tongue ram</u> is a sound gesture that produces a percussive-explosive sound.<br></br>The resulting pitch is a major 7th below the fingered note when performed on the flute.",
+        "ng_17_ex": "It is produced by completely sealing the embouchure hole with the lips and forcefully thrusting the tongue into the embouchure hole.<br></br>It is worth noting that this technique is not exclusive to the flute and can be applied to any wind instrument by forcing a similar embouchure.",
         "ng_18": "<u>Whistle tones</u> are produced when air moves slowly with very low pressure, like a soft exhalation. Vibrations occur on the lip plate rather than inside the tube, producing a high and thin sound.",
         "ng_18_ex": "In this case, they are open. This means that other notes appear from the same position without needing to change it.",
         "ng_19": "The <u>harmonic cluster</u>, strong whistle tone, or overtones produce a very energetic high-pitched sound.",
@@ -715,7 +719,11 @@
         "ng_67": "The <u>mezzo dynamic</u> is represented by an \"m\" in the score.<br></br>It is an invented dynamic that lies between mezzo-forte and mezzo-piano.",
         "ng_67_ex": "While its neighboring dynamics suggest directionality and intentionality, this one aims to be a neutral dynamic, not leaning toward any specific intent — perfect for minimalist and/or static music.",
         "ng_68": "The <u>speech bubble</u> is a performative notation indicating that the specified text in the score should be spoken.",
-        "ng_68_ex": "It can be indicated as plain text outside the score or within it using approximate pitches to reflect the intonation of the text." 
+        "ng_68_ex": "It can be indicated as plain text outside the score or within it using approximate pitches to reflect the intonation of the text.",
+        "ng_69": "<u>Mute</u> is a performative notation indicating that the sound-producing action should be mimed without producing any actual sound. In other words, to mime the action.",
+        "ng_69_ex": "The dynamics of the action should be taken into account so that the gesture matches the intended expression, as well as other characteristics of the gesture such as pitch, speed, etc.",
+        "ng_70": "<u>Neck</u> is a notation exclusive to the saxophone that refers to an action involving the instrument’s neck piece.",
+        "ng_70_ex": "In this case, the neck should be played separately from the instrument. If inhaling is requested, the mouthpiece should be inserted into the neck, producing a sound similar to a horn. If exhaling is requested, the mouthpiece should be removed, and the performer should blow in a way that makes the neck resonate using a technique similar to that of the transverse flute."
     }
 }
 
