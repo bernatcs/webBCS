@@ -319,9 +319,9 @@
         "ng_47": "La técnica <u>salvaje y loco</u> produce la sonoridad que describe el propio nombre.",
         "ng_47_ex": "Se produce ejecutando sobrepresiones de forma rápida pero articulada.",
         "ng_48": "El <u>glissando a cámara lenta</u> produce una sonoridad ténue.",
-        "ng_48_ex": "Se consigue ejecutando tal y cómo la técnica lo indica en todas las cuerdas del instrumento.",
+        "ng_48_ex": "Se consigue ejecutando tal y cómo el video lo indica en todas las cuerdas del instrumento.",
         "ng_49": "El <u>arco a cámara lenta</u> produce una sonoridad ténue.",
-        "ng_49_ex": "Se consigue ejecutando tal y cómo la técnica lo indica.",
+        "ng_49_ex": "Se consigue ejecutando tal y cómo el video lo indica.",
         "ng_50": "El <u>trémolo irregular largo</u> produce una sonoridad inestable.",
         "ng_50_ex": "Se consigue alternando de forma rápida y desigual entre las notas del acorde indicado.",
         "ng_51": "La técnica <u>mirar al público</u> forma parte de la colleción de técnicas performáticas.",
@@ -361,7 +361,21 @@
         "ng_69": "<u>Silenciar</u> es una notación performática que indica que se debe gesticular la acción sonora pero que no suene nada. Es decir, hacer mímica de la acción.",
         "ng_69_ex": "Se debe tener en cuenta la dinámica de la acción para que el gesto sea acorde a la intención de la acción así como otras características del gesto como la altura de la nota, la velocidad, etc.",
         "ng_70": "<u>Tudel</u> es una notación exclusiva del saxofón que hace referencia a una acción la parte homónima del instrumento.",
-        "ng_70_ex": "En este caso, se debe tocar con el tudel fuera del instrumento. Si se pide inspirar, se debe tocar con la boquilla dentro del tudel y se producirá un sonido parecido a una cláxon. Si se pide expirar, se debe tocar con la boquilla fuera y hace referencia a soplar de forma que hagas resonar el tudel con una técnica similar a las de las flautas traveseras."
+        "ng_70_ex": "En este caso, se debe tocar con el tudel fuera del instrumento. Si se pide inspirar, se debe tocar con la boquilla dentro del tudel y se producirá un sonido parecido a una cláxon. Si se pide expirar, se debe tocar con la boquilla fuera y hace referencia a soplar de forma que hagas resonar el tudel con una técnica similar a las de las flautas traveseras.",
+        "ng_71": "El <u>Pizzicato</u> en flauta, es una técnica extendida que produce una sonoridad percusiva, con tono, imitando el sonido del pizzicato de cuerda. Hay dos tipos, el \"lip pizzicato\" y el \"tongue pizzicato\", si no se especifica, se entiende que el intérprete debe elegir el que más le convenga.",
+        "ng_71_ex": "También llamado \"slap tongue\", solo funciona en la primera octava y en las primeras notas de la segunda octava (hasta el Fa5 —mantén levantado el primer dedo de la mano izquierda para el Mi5 y Fa5—). Si se quiere pizzicato en la segunda o tercera octava, el flautista debe añadir un poco de sonido de flauta.",
+        "ng_72": "La <u>posición de la cabeza</u> es una notación performática que indica la posición de la cabeza hacia derecha o izquierda.",
+        "ng_72_ex": "Las flechas indican la dirección de la cabeza. Esta técnica se puede combinar con otras técnicas performáticas como mirar al público, mirar con una cara loca, parar o play, entre otras.",
+        "ng_73": "El <u>sonido de digeridoo</u> es una técnica extendida que se produce, típicamente, en el clarinete bajo. Simula la sonoridad del instrumento homónimo.",
+        "ng_73_ex": "Se produce haciendo una sobrepresión en la caña teniendo en cuenta los armónicos de la nota que se está produciendo. Habitualmente tiene dirección ascendente.",
+        "ng_74": "La <u>sobrepresión</u> es un recurso muy típico para alcanzar sonoridades agresivas y densas. También puede servir para producir sonoridades ricas en armónicos.",
+        "ng_74_ex": "En la imagen se muestra presión ordinaria (rectángulo vacío) a sobrepresión (rectángulo relleno). La sobrepresión se puede producir de diferentes maneras, ya sea con la embocadura, con la caña o con el instrumento.<br></br>En este <a href=\"https://heatherroche.net/2016/09/26/spectral-multiphonics-bb-and-bass/\" style=\"text-decoration: none;\"><u>link</u></a> se pueden escuchar ejemplos de la técnica controlada en clarinete.",
+        "ng_75": "La <u>raspa lateral del arco</u> es una técnica extendida que produce una sonoridad rugoss, áspera pero débil.",
+        "ng_75_ex": "Se produce frotando el arco hacia el puente.",
+        "ng_76": "El <u>glissando a cámara lenta y glissando</u> produce una sonoridad ténue muy parecida a la del <a href=\"https://www.bernatcucarella.com/notation/slow-motion-bow\" style=\"text-decoration: none;\"><u>arco a cámara lenta</u></a>.",
+        "ng_76_ex": "Se consigue ejecutando tal y cómo el vídeo lo indica."
+
+        
     },
     "english": {
         "abrir": "MUSEUM",
@@ -681,9 +695,9 @@
         "ng_47": "The <u>wild and crazy</u> technique produces the sound described by its name.",
         "ng_47_ex": "It is achieved by performing rapid, articulated overpressures.",
         "ng_48": "<u>Slow-motion glissando</u> produces a subtle sound.",
-        "ng_48_ex": "It is achieved by performing the technique as indicated on all strings of the instrument.",
+        "ng_48_ex": "It is achieved by performing the technique as indicated on the video on all strings of the instrument.",
         "ng_49": "<u>Slow-motion bowing</u> produces a subtle sound.",
-        "ng_49_ex": "It is achieved by performing the technique as indicated.",
+        "ng_49_ex": "It is achieved by performing the technique as indicated on the video.",
         "ng_50": "The <u>long irregular tremolo</u> produces an unstable sonority.",
         "ng_50_ex": "It is achieved by alternating quickly and unevenly between the notes of the indicated chord.",
         "ng_51": "The technique <u>looking at the audience</u> is part of the collection of performative techniques.",
@@ -723,7 +737,19 @@
         "ng_69": "<u>Mute</u> is a performative notation indicating that the sound-producing action should be mimed without producing any actual sound. In other words, to mime the action.",
         "ng_69_ex": "The dynamics of the action should be taken into account so that the gesture matches the intended expression, as well as other characteristics of the gesture such as pitch, speed, etc.",
         "ng_70": "<u>Neck</u> is a notation exclusive to the saxophone that refers to an action involving the instrument’s neck piece.",
-        "ng_70_ex": "In this case, the neck should be played separately from the instrument. If inhaling is requested, the mouthpiece should be inserted into the neck, producing a sound similar to a horn. If exhaling is requested, the mouthpiece should be removed, and the performer should blow in a way that makes the neck resonate using a technique similar to that of the transverse flute."
+        "ng_70_ex": "In this case, the neck should be played separately from the instrument. If inhaling is requested, the mouthpiece should be inserted into the neck, producing a sound similar to a horn. If exhaling is requested, the mouthpiece should be removed, and the performer should blow in a way that makes the neck resonate using a technique similar to that of the transverse flute.",
+        "ng_71": "The <u>Pizzicato</u> on flute is an extended technique that produces a percussive sonority, with pitch, imitating the sound of string pizzicato. There are two types, \"lip pizzicato\" and \"tongue pizzicato\"; if not specified, it is understood that the performer should choose the one that suits them best.",
+        "ng_71_ex": "Also called \"slap tongue\", it only works in the first octave and in the first notes of the second octave (up to F5 —keep the first finger of the left hand raised for E5 and F5—). If pizzicato is desired in the second or third octave, the flutist must add a little flute sound.",
+        "ng_72": "The <u>head position</u> is a performative notation indicating the position of the head to the right or left.",
+        "ng_72_ex": "The arrows indicate the direction of the head. This technique can be combined with other performative techniques such as looking at the audience, looking with a crazy face, stopping or playing, among others.",
+        "ng_73": "The <u>didgeridoo sound</u> is an extended technique typically produced on the bass clarinet. It simulates the sonority of the instrument of the same name.",
+        "ng_73_ex": "It is produced by overpressing the reed while taking into account the harmonics of the note being played. It usually has an upward direction.",
+        "ng_74": "The <u>overpressure</u> is a very typical resource to achieve aggressive and dense sonorities. It can also be used to produce sonorities rich in harmonics.",
+        "ng_74_ex": "In the image, ordinary pressure (empty rectangle) to overpressure (filled rectangle) is shown. Overpressure can be produced in different ways, whether with the embouchure, with the reed, or with the instrument.<br></br>In this <a href=\"https://heatherroche.net/2016/09/26/spectral-multiphonics-bb-and-bass/\" style=\"text-decoration: none;\"><u>link</u></a> you can hear examples of the controlled technique on clarinet.",
+        "ng_75": "The <u>lateral bow scrape</u> is an extended technique that produces a rough, scratchy but weak sonority.",
+        "ng_75_ex": "It is produced by rubbing the bow towards the bridge.",
+        "ng_76": "The <u>slow-motion glissando and glissando</u> produces a faint sonority very similar to that of the <a href=\"https://www.bernatcucarella.com/notation/slow-motion-bow\" style=\"text-decoration: none;\"><u>slow-motion bow</u></a>.",
+        "ng_76_ex": "It is achieved by performing exactly as indicated in the video."
     }
 }
 
